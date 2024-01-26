@@ -1,3 +1,4 @@
+<b><i>Swin Transformer as backbone. </i></b>
 <b><i>This repo is developed based on the [DARK Pose](https://github.com/ilovepose/DarkPose) project, follow the instruction below. </i></b>
 
 <b><i>路过的大佬给个三连。</i></b>
